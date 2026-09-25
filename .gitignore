@@ -218,7 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 
-# Microsoft Office temporary/lock files
+# Microsoft Office temporary files
 ~$*
 ~WRL*.tmp
 *.tmp
